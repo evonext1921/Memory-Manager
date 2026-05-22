@@ -31,7 +31,7 @@
 
 ### 前置条件
 
-- 一个支持导入自定义 Skill/Instructions 的 AI 客户端（如 [Claude Code](https://claude.ai/claude-code)、ChatGPT Custom Instructions 等）
+- 一个支持导入自定义 Skill/Instructions 的 AI 客户端（如 [Claude Code](https://claude.ai/claude-code)、Codex 等）
 
 ### 安装
 
