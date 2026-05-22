@@ -1,0 +1,12 @@
+*.html
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.bak.md
+*.bak
+tmp/
+temp/
