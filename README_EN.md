@@ -1,6 +1,6 @@
 # AI Private Localized Memory Management
 
-> 🌐 [memory.evonext.cn](https://memory.evonext.cn) — Project landing page
+> 🌐 [evonext.cn/pages/skills/memory-manager](https://evonext.cn/pages/skills/memory-manager/index.html) — Project landing page
 
 A local memory system for AI assistants (Claude Code), giving your AI long-term memory capabilities.
 No vector database, no cloud API, no external services required.
@@ -57,7 +57,7 @@ The essence of memory is enabling AI to perform CRUD on users' personal informat
 
 <div align="center">
 <a href="https://github.com/evonext1921/Memory-Manager">GitHub Repo</a> · 
-<a href="https://memory.evonext.cn">Project Page</a> · 
+<a href="https://evonext.cn/pages/skills/memory-manager/index.html">Project Page</a> · 
 <a href="https://space.bilibili.com/419058522">@裹小脚的大叔</a>
 </div>
 

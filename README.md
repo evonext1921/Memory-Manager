@@ -1,6 +1,6 @@
 # Memory-Manager — 给 AI 装一个本地记忆
 
-> 🌐 [memory.evonext.cn](https://memory.evonext.cn) — 项目介绍页
+> 🌐 [evonext.cn/pages/skills/memory-manager](https://evonext.cn/pages/skills/memory-manager/index.html) — 项目介绍页
 
 一个纯本地的 AI 记忆系统。不依赖向量数据库、不依赖云端 API、不需要任何外部服务。
 纯 Markdown 目录 + 确定性路由，给你的 AI 开箱即用的私人上下文。
@@ -70,7 +70,7 @@
 
 <div align="center">
 <a href="https://github.com/evonext1921/Memory-Manager">GitHub 仓库</a> · 
-<a href="https://memory.evonext.cn">项目介绍</a> · 
+<a href="https://evonext.cn/pages/skills/memory-manager/index.html">项目介绍</a> · 
 <a href="https://space.bilibili.com/419058522">@裹小脚的大叔</a>
 </div>
 
